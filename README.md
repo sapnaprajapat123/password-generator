@@ -1,2 +1,2 @@
 # password-generator
-this password-generator generates a strong password
+This password-generator generates a strong password
